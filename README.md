@@ -1,16 +1,16 @@
 ![MasterHead](https://thumbs.gfycat.com/BigheartedGrimFlea-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Mohamed hamza no3man</h1>
-<h3 align="center">A Frontend-Developer&& MobileApp-Developer(flutter)</h3>
+<h3 align="center"> MobileApp-Developer(flutter)</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midohaz&label=Profile%20views&color=0e75b6&style=flat" alt="midohaz" /> </p>
 
 - 🔭 I’m currently working on **News-App**
 
-- 🌱 I’m currently learning **flutter,javaScript**
+- 🌱 I’m currently learning **advanced flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/midoHaz](https://github.com/midoHaz)
 
-- 💬 Ask me about **Dart,c++,html,css**
+- 💬 Ask me about **Dart,oop,flutter,mvvm,animation,firebase**
 
 - 📫 How to reach me **m.hamza1533@gmail.com**
 
